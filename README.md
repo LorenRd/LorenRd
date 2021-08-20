@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm Lorenzo Rondán, Software Engineer currently studying a MSc Degree in Data, Cloud and IT. I'm interested in AI and Machine Learning 🔭
+### I'm Lorenzo Rondán, Software Engineer and MSc Degree in Data, Cloud and IT. I'm interested in AI and Machine Learning 🔭
 ### 💬 You can connect me on [my LinkedIn profile](https://www.linkedin.com/in/lrondan/)
 
 <!--
