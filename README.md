@@ -1,7 +1,7 @@
 ### Hey, I'm [LorenRD](https://twitter.com/LorenRD) (Lorenzo Rondán)👋
 💻 I'm a Software Engineer and MSc Degree in Data & Cloud from Seville currently living in Barcelona (Spain).
 
-🤖 I'm interested in Software Engineering and Machine Learning, but mainly I love to solve challenging real world problems and learn new things.
+🤖 I'm interested in Software and Data Engineering, but mainly I love to solve challenging real world problems and learn new things.
 
 💬 You can connect me on:
 - [Website lorenrd.com](https://lorenrd.com)
